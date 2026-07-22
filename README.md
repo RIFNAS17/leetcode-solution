@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RIFNAS17/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/RIFNAS17/leetcode-solution/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/RIFNAS17/leetcode-solution/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/RIFNAS17/leetcode-solution/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RIFNAS17/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/RIFNAS17/leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/RIFNAS17/leetcode-solution/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/RIFNAS17/leetcode-solution/tree/master/0062-unique-paths) |
 ## Array
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/RIFNAS17/leetcode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RIFNAS17/leetcode-solution/tree/master/0054-spiral-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RIFNAS17/leetcode-solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
