@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RIFNAS17/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/RIFNAS17/leetcode-solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/RIFNAS17/leetcode-solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RIFNAS17/leetcode-solution/tree/master/0054-spiral-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/RIFNAS17/leetcode-solution/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/RIFNAS17/leetcode-solution/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -110,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RIFNAS17/leetcode-solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RIFNAS17/leetcode-solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
