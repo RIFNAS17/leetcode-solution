@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/RIFNAS17/leetcode-solution/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/RIFNAS17/leetcode-solution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/RIFNAS17/leetcode-solution/tree/master/0097-interleaving-string) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/RIFNAS17/leetcode-solution/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RIFNAS17/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RIFNAS17/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RIFNAS17/leetcode-solution/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/RIFNAS17/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RIFNAS17/leetcode-solution/tree/master/0100-same-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
