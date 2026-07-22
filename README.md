@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RIFNAS17/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/RIFNAS17/leetcode-solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RIFNAS17/leetcode-solution/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RIFNAS17/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 ## Greedy
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RIFNAS17/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/RIFNAS17/leetcode-solution/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RIFNAS17/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 ## String Matching
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RIFNAS17/leetcode-solution/tree/master/0079-word-search) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RIFNAS17/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
