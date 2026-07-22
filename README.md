@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RIFNAS17/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RIFNAS17/leetcode-solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RIFNAS17/leetcode-solution/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RIFNAS17/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RIFNAS17/leetcode-solution/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/RIFNAS17/leetcode-solution/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/0088-merge-sorted-array) |
 ## Stack
 |  |
 | ------- |
