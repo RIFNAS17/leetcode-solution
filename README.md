@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/RIFNAS17/leetcode-solution/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/RIFNAS17/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RIFNAS17/leetcode-solution/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/RIFNAS17/leetcode-solution/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RIFNAS17/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RIFNAS17/leetcode-solution/tree/master/0069-sqrtx) |
 ## Simulation
 |  |
 | ------- |
