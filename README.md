@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RIFNAS17/leetcode-solution/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/RIFNAS17/leetcode-solution/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/RIFNAS17/leetcode-solution/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/RIFNAS17/leetcode-solution/tree/master/0091-decode-ways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/RIFNAS17/leetcode-solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/RIFNAS17/leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/RIFNAS17/leetcode-solution/tree/master/0091-decode-ways) |
 ## Array
 |  |
 | ------- |
