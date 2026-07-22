@@ -1,0 +1,20 @@
+class Solution:
+    def restoreIpAddresses(self, s: str) -> List[str]:
+        res, l = [], len(s)
+
+        def go(cnt, last, p):
+            if cnt > 4 or last > l:
+                return
+            if cnt == 4 and last == l - 1:
+                res.append(p)
+                return
+            for i in range(1, 4):
+                seg = s[min(last + 1, l): min(last + 1 + i, l)]
+                if not seg:
+                    continue
+                if (len(seg) > 1 and seg[0] == '0') or (int(seg) > 255):
+                    return
+                go(cnt + 1, last + i, p + ('.' if p else '') + seg)
+        
+        go(0, -1, '')
+        return res
