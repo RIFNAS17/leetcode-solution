@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/RIFNAS17/leetcode-solution/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RIFNAS17/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0168-excel-sheet-column-title](https://github.com/RIFNAS17/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/RIFNAS17/leetcode-solution/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/RIFNAS17/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/RIFNAS17/leetcode-solution/tree/master/0139-word-break) |
+| [0168-excel-sheet-column-title](https://github.com/RIFNAS17/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
