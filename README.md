@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/RIFNAS17/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/RIFNAS17/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Recursion
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/RIFNAS17/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/RIFNAS17/leetcode-solution/tree/master/0169-majority-element) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RIFNAS17/leetcode-solution/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/RIFNAS17/leetcode-solution/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0136-single-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Memoization
 |  |
 | ------- |
