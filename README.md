@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/RIFNAS17/leetcode-solution/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/RIFNAS17/leetcode-solution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/RIFNAS17/leetcode-solution/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/RIFNAS17/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/RIFNAS17/leetcode-solution/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
