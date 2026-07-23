@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RIFNAS17/leetcode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/RIFNAS17/leetcode-solution/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RIFNAS17/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/RIFNAS17/leetcode-solution/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/RIFNAS17/leetcode-solution/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RIFNAS17/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Greedy
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RIFNAS17/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RIFNAS17/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RIFNAS17/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String Matching
 |  |
 | ------- |
