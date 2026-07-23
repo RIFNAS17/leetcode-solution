@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/RIFNAS17/leetcode-solution/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RIFNAS17/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RIFNAS17/leetcode-solution/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RIFNAS17/leetcode-solution/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/RIFNAS17/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -305,8 +308,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RIFNAS17/leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RIFNAS17/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0148-sort-list) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RIFNAS17/leetcode-solution/tree/master/0130-surrounded-regions) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
