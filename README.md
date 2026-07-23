@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RIFNAS17/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/RIFNAS17/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RIFNAS17/leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/RIFNAS17/leetcode-solution/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/RIFNAS17/leetcode-solution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/RIFNAS17/leetcode-solution/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/RIFNAS17/leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/RIFNAS17/leetcode-solution/tree/master/0139-word-break) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/RIFNAS17/leetcode-solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RIFNAS17/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/RIFNAS17/leetcode-solution/tree/master/0139-word-break) |
 ## Array
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/RIFNAS17/leetcode-solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/RIFNAS17/leetcode-solution/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/RIFNAS17/leetcode-solution/tree/master/0139-word-break) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Greedy
 |  |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RIFNAS17/leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/RIFNAS17/leetcode-solution/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -209,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/RIFNAS17/leetcode-solution/tree/master/0139-word-break) |
 ## Depth-First Search
 |  |
 | ------- |
