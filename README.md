@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RIFNAS17/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/RIFNAS17/leetcode-solution/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RIFNAS17/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RIFNAS17/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/RIFNAS17/leetcode-solution/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RIFNAS17/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Greedy
 |  |
