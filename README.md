@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/RIFNAS17/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RIFNAS17/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RIFNAS17/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [2685-count-the-number-of-complete-components](https://github.com/RIFNAS17/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/RIFNAS17/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RIFNAS17/leetcode-solution/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/RIFNAS17/leetcode-solution/tree/master/0130-surrounded-regions) |
+| [2685-count-the-number-of-complete-components](https://github.com/RIFNAS17/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Segment Tree
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RIFNAS17/leetcode-solution/tree/master/0130-surrounded-regions) |
+| [2685-count-the-number-of-complete-components](https://github.com/RIFNAS17/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Merge Sort
 |  |
 | ------- |
@@ -347,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RIFNAS17/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/RIFNAS17/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
