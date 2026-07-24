@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/RIFNAS17/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/RIFNAS17/leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RIFNAS17/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RIFNAS17/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RIFNAS17/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/RIFNAS17/leetcode-solution/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/RIFNAS17/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/RIFNAS17/leetcode-solution/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RIFNAS17/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RIFNAS17/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RIFNAS17/leetcode-solution/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/RIFNAS17/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Simulation
 |  |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RIFNAS17/leetcode-solution/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -354,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RIFNAS17/leetcode-solution/tree/master/0169-majority-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Design
 |  |
 | ------- |
@@ -373,7 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RIFNAS17/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RIFNAS17/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
