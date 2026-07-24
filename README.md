@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/RIFNAS17/leetcode-solution/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RIFNAS17/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/RIFNAS17/leetcode-solution/tree/master/0169-majority-element) |
+| [1260-shift-2d-grid](https://github.com/RIFNAS17/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RIFNAS17/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/RIFNAS17/leetcode-solution/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/RIFNAS17/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/RIFNAS17/leetcode-solution/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/RIFNAS17/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RIFNAS17/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RIFNAS17/leetcode-solution/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/RIFNAS17/leetcode-solution/tree/master/0130-surrounded-regions) |
+| [1260-shift-2d-grid](https://github.com/RIFNAS17/leetcode-solution/tree/master/1260-shift-2d-grid) |
 ## Combinatorics
 |  |
 | ------- |
