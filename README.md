@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/RIFNAS17/leetcode-solution/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/RIFNAS17/leetcode-solution/tree/master/0258-add-digits) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RIFNAS17/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/RIFNAS17/leetcode-solution/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/RIFNAS17/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/RIFNAS17/leetcode-solution/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/RIFNAS17/leetcode-solution/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/RIFNAS17/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RIFNAS17/leetcode-solution/tree/master/0258-add-digits) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RIFNAS17/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RIFNAS17/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
