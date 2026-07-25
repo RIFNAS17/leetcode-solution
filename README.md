@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RIFNAS17/leetcode-solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/RIFNAS17/leetcode-solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/RIFNAS17/leetcode-solution/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/RIFNAS17/leetcode-solution/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RIFNAS17/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RIFNAS17/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RIFNAS17/leetcode-solution/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/RIFNAS17/leetcode-solution/tree/master/0392-is-subsequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/RIFNAS17/leetcode-solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RIFNAS17/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/RIFNAS17/leetcode-solution/tree/master/0139-word-break) |
+| [0392-is-subsequence](https://github.com/RIFNAS17/leetcode-solution/tree/master/0392-is-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RIFNAS17/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Array
 |  |
