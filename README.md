@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RIFNAS17/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/RIFNAS17/leetcode-solution/tree/master/0283-move-zeroes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/RIFNAS17/leetcode-solution/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/RIFNAS17/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/RIFNAS17/leetcode-solution/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/RIFNAS17/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
