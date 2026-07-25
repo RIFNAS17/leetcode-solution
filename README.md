@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RIFNAS17/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RIFNAS17/leetcode-solution/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/RIFNAS17/leetcode-solution/tree/master/0561-array-partition) |
 | [1260-shift-2d-grid](https://github.com/RIFNAS17/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/RIFNAS17/leetcode-solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/RIFNAS17/leetcode-solution/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/RIFNAS17/leetcode-solution/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/RIFNAS17/leetcode-solution/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RIFNAS17/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RIFNAS17/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RIFNAS17/leetcode-solution/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/RIFNAS17/leetcode-solution/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/RIFNAS17/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -481,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/RIFNAS17/leetcode-solution/tree/master/0292-nim-game) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/RIFNAS17/leetcode-solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
