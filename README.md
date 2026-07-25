@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/RIFNAS17/leetcode-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RIFNAS17/leetcode-solution/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0263-ugly-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RIFNAS17/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
