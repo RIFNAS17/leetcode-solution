@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/RIFNAS17/leetcode-solution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/RIFNAS17/leetcode-solution/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/RIFNAS17/leetcode-solution/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/RIFNAS17/leetcode-solution/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RIFNAS17/leetcode-solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/RIFNAS17/leetcode-solution/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/RIFNAS17/leetcode-solution/tree/master/0389-find-the-difference) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RIFNAS17/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RIFNAS17/leetcode-solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RIFNAS17/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/RIFNAS17/leetcode-solution/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/RIFNAS17/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/RIFNAS17/leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/RIFNAS17/leetcode-solution/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Memoization
 |  |
