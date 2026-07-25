@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/RIFNAS17/leetcode-solution/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RIFNAS17/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/RIFNAS17/leetcode-solution/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/RIFNAS17/leetcode-solution/tree/master/0228-summary-ranges) |
 | [1260-shift-2d-grid](https://github.com/RIFNAS17/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
