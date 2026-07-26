@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/RIFNAS17/leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RIFNAS17/leetcode-solution/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/RIFNAS17/leetcode-solution/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/RIFNAS17/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RIFNAS17/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/RIFNAS17/leetcode-solution/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/RIFNAS17/leetcode-solution/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RIFNAS17/leetcode-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/RIFNAS17/leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/RIFNAS17/leetcode-solution/tree/master/0412-fizz-buzz) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/RIFNAS17/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/RIFNAS17/leetcode-solution/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RIFNAS17/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
 |  |
