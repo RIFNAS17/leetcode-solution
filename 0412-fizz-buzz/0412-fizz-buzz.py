@@ -1,16 +1,15 @@
 class Solution:
-    def longestPalindrome(self, s: str) -> int:
-        odd_count = 0
-        d = {}
-        for ch in s:
-            if ch in d:
-                d[ch] += 1
+    def fizzBuzz(self, n: int) -> List[str]:
+        list=[]
+        for i in range(1,n+1):
+            if  i%3==0 and i%5==0 :
+                list.append("FizzBuzz")
+            elif i%3==0:
+                list.append("Fizz")
+            elif i%5==0:
+                list.append("Buzz")
             else:
-                d[ch] = 1
-            if d[ch] % 2 == 1:
-                odd_count += 1
-            else:
-                odd_count -= 1
-        if odd_count > 1:
-            return len(s) - odd_count + 1
-        return len(s)
+                list.append(str(i))
+        return list
+                   
+            
