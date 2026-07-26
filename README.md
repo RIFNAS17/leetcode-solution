@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/RIFNAS17/leetcode-solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/RIFNAS17/leetcode-solution/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/RIFNAS17/leetcode-solution/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/RIFNAS17/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RIFNAS17/leetcode-solution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/RIFNAS17/leetcode-solution/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/RIFNAS17/leetcode-solution/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Simulation
