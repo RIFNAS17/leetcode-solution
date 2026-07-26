@@ -506,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/RIFNAS17/leetcode-solution/tree/master/0561-array-partition) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/RIFNAS17/leetcode-solution/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
