@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RIFNAS17/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/RIFNAS17/leetcode-solution/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/RIFNAS17/leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RIFNAS17/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/RIFNAS17/leetcode-solution/tree/master/0705-design-hashset) |
 | [1331-rank-transform-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/RIFNAS17/leetcode-solution/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/RIFNAS17/leetcode-solution/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/RIFNAS17/leetcode-solution/tree/master/0705-design-hashset) |
 | [1260-shift-2d-grid](https://github.com/RIFNAS17/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/RIFNAS17/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/RIFNAS17/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RIFNAS17/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/RIFNAS17/leetcode-solution/tree/master/0705-design-hashset) |
 ## Iterator
 |  |
 | ------- |
@@ -561,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RIFNAS17/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/RIFNAS17/leetcode-solution/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
