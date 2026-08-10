@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RIFNAS17/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIFNAS17/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1510-stone-game-iv](https://github.com/RIFNAS17/leetcode-solution/tree/master/1510-stone-game-iv) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RIFNAS17/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/RIFNAS17/leetcode-solution/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/RIFNAS17/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0509-fibonacci-number) |
+| [1510-stone-game-iv](https://github.com/RIFNAS17/leetcode-solution/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RIFNAS17/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Array
 |  |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/RIFNAS17/leetcode-solution/tree/master/0292-nim-game) |
+| [1510-stone-game-iv](https://github.com/RIFNAS17/leetcode-solution/tree/master/1510-stone-game-iv) |
 ## Counting Sort
 |  |
 | ------- |
@@ -583,4 +586,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/RIFNAS17/leetcode-solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/RIFNAS17/leetcode-solution/tree/master/0706-design-hashmap) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RIFNAS17/leetcode-solution/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RIFNAS17/leetcode-solution/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RIFNAS17/leetcode-solution/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RIFNAS17/leetcode-solution/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
