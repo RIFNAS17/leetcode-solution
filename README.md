@@ -607,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RIFNAS17/leetcode-solution/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RIFNAS17/leetcode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
