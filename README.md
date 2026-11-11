@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/RIFNAS17/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/RIFNAS17/leetcode-solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/RIFNAS17/leetcode-solution/tree/master/0706-design-hashmap) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/RIFNAS17/leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/RIFNAS17/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RIFNAS17/leetcode-solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/RIFNAS17/leetcode-solution/tree/master/0326-power-of-three) |
