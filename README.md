@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RIFNAS17/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1447-simplified-fractions](https://github.com/RIFNAS17/leetcode-solution/tree/master/1447-simplified-fractions) |
 | [1510-stone-game-iv](https://github.com/RIFNAS17/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [2769-find-the-maximum-achievable-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RIFNAS17/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
