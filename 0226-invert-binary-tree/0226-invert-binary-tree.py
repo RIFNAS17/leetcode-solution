@@ -1,9 +1,8 @@
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        if not root: #Base Case
+        if not root:
             return root
-        self.invertTree(root.left) #Call the left substree
-        self.invertTree(root.right)  #Call the right substree
-        # Swap the nodes
+        self.invertTree(root.left) 
+        self.invertTree(root.right)
         root.left, root.right = root.right, root.left
-        return root # Return the root
+        return root 
