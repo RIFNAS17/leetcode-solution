@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1510-stone-game-iv](https://github.com/RIFNAS17/leetcode-solution/tree/master/1510-stone-game-iv) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RIFNAS17/leetcode-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RIFNAS17/leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RIFNAS17/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Array
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/RIFNAS17/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RIFNAS17/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RIFNAS17/leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RIFNAS17/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/RIFNAS17/leetcode-solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIFNAS17/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RIFNAS17/leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3536-maximum-product-of-two-digits](https://github.com/RIFNAS17/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
