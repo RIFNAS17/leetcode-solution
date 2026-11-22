@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/RIFNAS17/leetcode-solution/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RIFNAS17/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1447-simplified-fractions](https://github.com/RIFNAS17/leetcode-solution/tree/master/1447-simplified-fractions) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/RIFNAS17/leetcode-solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RIFNAS17/leetcode-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RIFNAS17/leetcode-solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RIFNAS17/leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
