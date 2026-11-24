@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RIFNAS17/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RIFNAS17/leetcode-solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RIFNAS17/leetcode-solution/tree/master/0743-network-delay-time) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RIFNAS17/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/RIFNAS17/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RIFNAS17/leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Monotonic Stack
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RIFNAS17/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RIFNAS17/leetcode-solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RIFNAS17/leetcode-solution/tree/master/0743-network-delay-time) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RIFNAS17/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/RIFNAS17/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Segment Tree
 |  |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RIFNAS17/leetcode-solution/tree/master/0130-surrounded-regions) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RIFNAS17/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/RIFNAS17/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Merge Sort
 |  |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/RIFNAS17/leetcode-solution/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RIFNAS17/leetcode-solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RIFNAS17/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/RIFNAS17/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
