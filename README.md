@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/RIFNAS17/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RIFNAS17/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RIFNAS17/leetcode-solution/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/RIFNAS17/leetcode-solution/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/RIFNAS17/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RIFNAS17/leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Monotonic Stack
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/RIFNAS17/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RIFNAS17/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RIFNAS17/leetcode-solution/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/RIFNAS17/leetcode-solution/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/RIFNAS17/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Segment Tree
 |  |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/RIFNAS17/leetcode-solution/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/RIFNAS17/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RIFNAS17/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RIFNAS17/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/RIFNAS17/leetcode-solution/tree/master/0743-network-delay-time) |
 ## Data Stream
 |  |
 | ------- |
@@ -673,4 +677,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RIFNAS17/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/RIFNAS17/leetcode-solution/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/RIFNAS17/leetcode-solution/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
