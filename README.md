@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RIFNAS17/leetcode-solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/RIFNAS17/leetcode-solution/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/RIFNAS17/leetcode-solution/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/RIFNAS17/leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RIFNAS17/leetcode-solution/tree/master/0342-power-of-four) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/RIFNAS17/leetcode-solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RIFNAS17/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/RIFNAS17/leetcode-solution/tree/master/0139-word-break) |
+| [0279-perfect-squares](https://github.com/RIFNAS17/leetcode-solution/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/RIFNAS17/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RIFNAS17/leetcode-solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/RIFNAS17/leetcode-solution/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/RIFNAS17/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/RIFNAS17/leetcode-solution/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/RIFNAS17/leetcode-solution/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/RIFNAS17/leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RIFNAS17/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RIFNAS17/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -713,4 +716,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/RIFNAS17/leetcode-solution/tree/master/3934-smallest-unique-subarray) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/RIFNAS17/leetcode-solution/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/RIFNAS17/leetcode-solution/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
