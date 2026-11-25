@@ -1,11 +1,8 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        memo = {}
-        return self.helper(n, memo)
-    
-    def helper(self, n: int, memo: dict[int, int]) -> int:
-        if n == 0 or n == 1:
-            return 1
-        if n not in memo:
-            memo[n] = self.helper(n-1, memo) + self.helper(n-2, memo)
-        return memo[n]
+        one,two =1,1
+        for i in range(n-1):
+            temp = one
+            one = one+two
+            two = temp
+        return one
