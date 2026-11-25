@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RIFNAS17/leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3934-smallest-unique-subarray](https://github.com/RIFNAS17/leetcode-solution/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/RIFNAS17/leetcode-solution/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/RIFNAS17/leetcode-solution/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RIFNAS17/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3934-smallest-unique-subarray](https://github.com/RIFNAS17/leetcode-solution/tree/master/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/RIFNAS17/leetcode-solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/RIFNAS17/leetcode-solution/tree/master/0706-design-hashmap) |
+| [3934-smallest-unique-subarray](https://github.com/RIFNAS17/leetcode-solution/tree/master/3934-smallest-unique-subarray) |
 ## Minimax
 |  |
 | ------- |
@@ -701,4 +705,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RIFNAS17/leetcode-solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/RIFNAS17/leetcode-solution/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/RIFNAS17/leetcode-solution/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
