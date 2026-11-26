@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/RIFNAS17/leetcode-solution/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/RIFNAS17/leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RIFNAS17/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/RIFNAS17/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RIFNAS17/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RIFNAS17/leetcode-solution/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/RIFNAS17/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RIFNAS17/leetcode-solution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RIFNAS17/leetcode-solution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/RIFNAS17/leetcode-solution/tree/master/0367-valid-perfect-square) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RIFNAS17/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RIFNAS17/leetcode-solution/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/RIFNAS17/leetcode-solution/tree/master/0130-surrounded-regions) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0661-image-smoother](https://github.com/RIFNAS17/leetcode-solution/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/RIFNAS17/leetcode-solution/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/RIFNAS17/leetcode-solution/tree/master/1260-shift-2d-grid) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/RIFNAS17/leetcode-solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RIFNAS17/leetcode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RIFNAS17/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RIFNAS17/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
