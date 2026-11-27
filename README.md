@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RIFNAS17/leetcode-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RIFNAS17/leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RIFNAS17/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Array
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIFNAS17/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3934-smallest-unique-subarray](https://github.com/RIFNAS17/leetcode-solution/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/RIFNAS17/leetcode-solution/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/RIFNAS17/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RIFNAS17/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RIFNAS17/leetcode-solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Trie
 |  |
 | ------- |
